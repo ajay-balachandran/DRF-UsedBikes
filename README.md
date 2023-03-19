@@ -10,13 +10,15 @@
 
 ## Features Added:
 
-    - Login logout
-    - 
-    - 
-    - 
-    - 
-    - 
-    - 
+    - JWT Authentication
+    - API to create, retrieve, update, delete bike selling posts
+    - API to add, retrive multiple images for a bike selling post
+    - API to make offers to seller, list all offers of a spesific bike selling post
+    - API to mark a bike selling post as sold
+    - API to update offer price
+    - API to accepting or cancel offers
+    - etc.....
+    - I will add more functionalities to this project in future, Currently only API's are developed, test it by using Postman, Thunderclient(VScode Extension) or other API testing tools
     
 ## API Documentation
 
@@ -48,4 +50,4 @@
    
 ### Tools & Technologies Used:
 
-`python` `django` `djangorestframework` `sqlite` `github`
+`python` `djangorestframework` `sqlite` `git & github`
